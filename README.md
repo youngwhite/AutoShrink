@@ -1,5 +1,4 @@
-#### 1 The models for block-wise classification are realized by wrapped classes in folder 'models'
-#### 2 The adaptive compression framework during training is in main.py
-#### 3 modify the configs in main.py
-<small>run script main.py by</small>
+<small>1 The models for block-wise classification are realized by wrapped classes in folder 'models'</small>
+<small>2 The adaptive compression framework during training is in main.py</small>
+<small>run script by</small>
 `python main.py`
