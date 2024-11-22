@@ -1,0 +1,7 @@
+/home/usrs/wang.changlong.s8/AutoShrink/as=cifar10=vit=distill=single=0.9154(0.8978-6|12).pth
+/home/usrs/wang.changlong.s8/AutoShrink/as=cifar10=vit=prune=single=0.9136(0.9007-7|12).pth
+
+*.pth
+*.log
+__pycache__/
+.DS_Store
